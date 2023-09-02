@@ -64,14 +64,15 @@
     "versionPublish": "5.9.4",
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "3lhlk9ljqq",
+    "mbrsiteDomain": "77zxthhubs",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
