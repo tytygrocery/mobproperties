@@ -1425,7 +1425,7 @@ a {
 }
 .cid-tOC77IdkBe {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-tOC77IdkBe h6 {
@@ -1724,13 +1724,13 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 .cid-tOC6Y145Yp {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #edefeb;
 }
 .cid-tOC6Y145Yp .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.8;
 }
 .cid-tOC6Y145Yp form .mbr-section-btn {
   text-align: center;
