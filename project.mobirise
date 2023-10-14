@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mob Property",
-    "currentPage": "contactus.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -84,7 +84,7 @@
   "pages": {
     "contactus.html": {
       "settings": {
-        "title": "Contact Us - Mob Property",
+        "title": "Contact Us | Mobproperty.com",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -773,7 +773,7 @@
     },
     "property.html": {
       "settings": {
-        "title": "Property - Mob Property",
+        "title": "Property | Mobproperty.com",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1631,7 +1631,7 @@
     },
     "Blog.html": {
       "settings": {
-        "title": "Blog  - Mob Property",
+        "title": "Blog | Mobproperty.com",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2474,7 +2474,7 @@
     "home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home | Mobproperty.com",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
